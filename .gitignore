@@ -22,5 +22,5 @@ yarn-error.log*
 
 .idea
 package-lock.json
-public/index.html
+public/index.js
 
