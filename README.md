@@ -2,7 +2,7 @@
 
 https://reactjs.org/tutorial/tutorial.html
 
-added clear function, webpack, babel, PWA
+added clear function, webpack, babel, PWA, PWACompat
 
 ## Usage
 
